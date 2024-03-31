@@ -1,4 +1,3 @@
-```markdown
 # PDF Text Extractor with GUI
 
 This simple Python application allows you to extract plain text from a PDF file through a user-friendly graphical interface.
